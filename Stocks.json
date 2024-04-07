@@ -1,0 +1,28 @@
+//stock collection
+
+{
+    "_id": "unique_stock_id", 
+    "tickerSymbol": "AAPL",
+    "companyName": "Apple Inc.",
+    "sector": "Technology",
+    "currentPrice": 145.30,
+    "volume": 10000000,
+    "dividends": [
+      {
+        "_id": "unique_dividend_id", 
+        "paymentDate": "2021-08-01",
+        "amountPerShare": 0.85
+      }
+      // ... more dividends can be added here
+    ],
+    "corporateActions": [
+      {
+        "_id": "unique_corporate_action_id", 
+        "actionType": "Stock Split",
+        "actionDate": "2021-07-30",
+        "details": "4-for-1 stock split"
+      }
+      // ... more corporate actions can be added here
+    ]
+  }
+  

@@ -1,0 +1,60 @@
+
+//user collection with portfolios
+
+{
+    "_id": "unique_user_id",
+    "username": "johndoe",
+    "email": "john.doe@example.com",
+    "password": "hashed_password",
+    "portfolios": [
+      {
+        "_id": "portfolio_id_1",
+        "portfolioName": "Tech Growth 2021",
+        "creationDate": "2021-01-01",
+        "description": "A portfolio focused on the technology sector.",
+        "performance": {
+          "date": "2021-12-31",
+          "totalValue": 25000.00,
+          "unrealizedGainsLosses": 5000.00,
+          "realizedGainsLosses": 1200.00
+        },
+        "transactions": [
+            {
+                "_id": "transaction_id_1",
+                "date": "2021-02-15",
+                "type": "Buy",
+                "quantity": 10,
+                "pricePerShare": 150.00,
+                "stock_id": "stock_id_1" 
+              },
+              {
+                "_id": "transaction_id_2",
+                "date": "2022-03-12",
+                "type": "Sell",
+                "quantity": 5,
+                "pricePerShare": 10.00,
+                "stock_id": "stock_id_2" 
+              }
+        ]
+      },
+      {
+        "_id": "portfolio_id_2",
+        "portfolioName": "Healthcare Fund",
+        "creationDate": "2021-06-01",
+        "description": "A diversified portfolio in healthcare stocks.",
+        "performance": {
+          "date": "2021-12-31",
+          "totalValue": 15000.00,
+          "unrealizedGainsLosses": 1500.00,
+          "realizedGainsLosses": 800.00
+        },
+        "transactions": [
+          // Array of transaction subdocuments
+        ]
+      }
+      // ... more portfolio documents
+    ]
+  }
+  
+
+  
