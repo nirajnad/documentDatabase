@@ -1,0 +1,242 @@
+[
+    {
+        "_id": "0a71a4d6-ae1b-4bf8-af97-b6ab4e9d19a7",
+        "tickerSymbol": "NUIV",
+        "companyName": "Company KUZmp",
+        "sector": "Technology",
+        "currentPrice": 286.7,
+        "volume": 101950
+    },
+    {
+        "_id": "f6d33ad4-5259-4546-bca7-a6ea1dcaba1c",
+        "tickerSymbol": "CSEX",
+        "companyName": "Company SAbvR",
+        "sector": "Healthcare",
+        "currentPrice": 65.5,
+        "volume": 537505
+    },
+    {
+        "_id": "d79511e4-c61d-45fe-b9c9-a4f2c4cc1d15",
+        "tickerSymbol": "ZSRY",
+        "companyName": "Company XeprC",
+        "sector": "Finance",
+        "currentPrice": 374.26,
+        "volume": 66244
+    },
+    {
+        "_id": "4d4a3e6b-8db9-460f-8e64-219f17539b9d",
+        "tickerSymbol": "HLWY",
+        "companyName": "Company dJLLJ",
+        "sector": "Technology",
+        "currentPrice": 195.49,
+        "volume": 577817
+    },
+    {
+        "_id": "2b185ddc-b91c-40b1-bb75-36582252f65c",
+        "tickerSymbol": "FGBX",
+        "companyName": "Company ZGWIV",
+        "sector": "Finance",
+        "currentPrice": 160.02,
+        "volume": 374987
+    },
+    {
+        "_id": "1f3a232d-2950-4450-9572-7e01eff5f011",
+        "tickerSymbol": "DGGC",
+        "companyName": "Company hWhVG",
+        "sector": "Finance",
+        "currentPrice": 488.27,
+        "volume": 617594
+    },
+    {
+        "_id": "129a56ce-c1b8-40bb-85fa-bfb93e1b4569",
+        "tickerSymbol": "GRAJ",
+        "companyName": "Company WRIyM",
+        "sector": "Technology",
+        "currentPrice": 123.7,
+        "volume": 200658
+    },
+    {
+        "_id": "1d96026b-2cf0-48f8-b3b6-a8b65c65c699",
+        "tickerSymbol": "WBUL",
+        "companyName": "Company esMWp",
+        "sector": "Technology",
+        "currentPrice": 86.99,
+        "volume": 750753
+    },
+    {
+        "_id": "7a707d2c-e57b-4b73-9b62-ec2ed5b2db96",
+        "tickerSymbol": "GBWZ",
+        "companyName": "Company TXkIt",
+        "sector": "Healthcare",
+        "currentPrice": 425.2,
+        "volume": 407271
+    },
+    {
+        "_id": "455e58f9-057a-4080-8a78-611e51c1232e",
+        "tickerSymbol": "WGXG",
+        "companyName": "Company JhyJe",
+        "sector": "Technology",
+        "currentPrice": 147.82,
+        "volume": 62157
+    },
+    {
+        "_id": "0f6104b4-94fc-4f50-88e2-34f68c6005b3",
+        "tickerSymbol": "YSUS",
+        "companyName": "Company EQKEj",
+        "sector": "Technology",
+        "currentPrice": 298.17,
+        "volume": 324861
+    },
+    {
+        "_id": "127c58aa-8c5e-4d5a-ab28-a094c0901be9",
+        "tickerSymbol": "FATI",
+        "companyName": "Company pAbJc",
+        "sector": "Finance",
+        "currentPrice": 484.35,
+        "volume": 334324
+    },
+    {
+        "_id": "cb3a2a13-ffd0-4278-b6a4-d5668ec5548e",
+        "tickerSymbol": "SEFZ",
+        "companyName": "Company UtCDL",
+        "sector": "Technology",
+        "currentPrice": 19.29,
+        "volume": 24019
+    },
+    {
+        "_id": "a111ea4c-d9f9-4535-9509-f7fa147d97de",
+        "tickerSymbol": "VNJT",
+        "companyName": "Company sVhwd",
+        "sector": "Finance",
+        "currentPrice": 366.7,
+        "volume": 765142
+    },
+    {
+        "_id": "27887620-2d19-4614-8446-660a3d3147c0",
+        "tickerSymbol": "ZCLT",
+        "companyName": "Company YpmkB",
+        "sector": "Healthcare",
+        "currentPrice": 336.87,
+        "volume": 952798
+    },
+    {
+        "_id": "bb5f40d3-5f49-435b-9918-4dcb38491846",
+        "tickerSymbol": "SSFO",
+        "companyName": "Company oTZHG",
+        "sector": "Healthcare",
+        "currentPrice": 221.09,
+        "volume": 177606
+    },
+    {
+        "_id": "f4799b9f-3a54-4939-9520-fc1ebbc20772",
+        "tickerSymbol": "UTPF",
+        "companyName": "Company bRCll",
+        "sector": "Finance",
+        "currentPrice": 288.27,
+        "volume": 453350
+    },
+    {
+        "_id": "23779c0c-1b71-4904-81db-a996fa3a0840",
+        "tickerSymbol": "SRZU",
+        "companyName": "Company jSKQX",
+        "sector": "Finance",
+        "currentPrice": 329.83,
+        "volume": 568023
+    },
+    {
+        "_id": "d071582f-7ec3-468a-8560-1f179cb55c3c",
+        "tickerSymbol": "KYJI",
+        "companyName": "Company ZCfFj",
+        "sector": "Finance",
+        "currentPrice": 303.27,
+        "volume": 219262
+    },
+    {
+        "_id": "3ee44221-82e1-4cc8-841b-1680a9294330",
+        "tickerSymbol": "INJT",
+        "companyName": "Company gXDzD",
+        "sector": "Healthcare",
+        "currentPrice": 331.08,
+        "volume": 832314
+    },
+    {
+        "_id": "ed2e592a-2935-4a3c-aa53-408d641d2cab",
+        "tickerSymbol": "WAMW",
+        "companyName": "Company VHiXC",
+        "sector": "Technology",
+        "currentPrice": 201.29,
+        "volume": 206198
+    },
+    {
+        "_id": "fd867e3d-642a-4e3d-b5fc-7e29d40dc6c8",
+        "tickerSymbol": "KHMJ",
+        "companyName": "Company hMdfZ",
+        "sector": "Finance",
+        "currentPrice": 56.93,
+        "volume": 799423
+    },
+    {
+        "_id": "83e92fcd-47c0-4ca4-9643-1bd9bd23bd7d",
+        "tickerSymbol": "AWXQ",
+        "companyName": "Company rKpjC",
+        "sector": "Technology",
+        "currentPrice": 61.05,
+        "volume": 461655
+    },
+    {
+        "_id": "b1cb241b-6a45-49ec-be14-6aed7a98b166",
+        "tickerSymbol": "SKIN",
+        "companyName": "Company MBWik",
+        "sector": "Healthcare",
+        "currentPrice": 448.02,
+        "volume": 726360
+    },
+    {
+        "_id": "808fd611-bb11-47b1-96a5-6bf8a276890d",
+        "tickerSymbol": "RQRZ",
+        "companyName": "Company kfJZO",
+        "sector": "Healthcare",
+        "currentPrice": 242.82,
+        "volume": 175735
+    },
+    {
+        "_id": "d808a70d-aaf4-43c7-88ad-6d63c3746390",
+        "tickerSymbol": "CZVG",
+        "companyName": "Company ZeQtn",
+        "sector": "Technology",
+        "currentPrice": 406.19,
+        "volume": 155159
+    },
+    {
+        "_id": "131b16e9-6789-4a19-b9b2-70a05f27694c",
+        "tickerSymbol": "JCMW",
+        "companyName": "Company zlUnP",
+        "sector": "Healthcare",
+        "currentPrice": 268.32,
+        "volume": 992175
+    },
+    {
+        "_id": "bd87c2a0-4ade-4973-8429-d479cab14b2e",
+        "tickerSymbol": "TDMA",
+        "companyName": "Company FEqXj",
+        "sector": "Technology",
+        "currentPrice": 159.67,
+        "volume": 652836
+    },
+    {
+        "_id": "9f723dd1-0fa8-42cc-8723-744ae22f73c6",
+        "tickerSymbol": "AWLR",
+        "companyName": "Company suGca",
+        "sector": "Finance",
+        "currentPrice": 15.82,
+        "volume": 951616
+    },
+    {
+        "_id": "473510b5-7482-4c91-8411-1ef0f132788d",
+        "tickerSymbol": "YOZB",
+        "companyName": "Company GQcLz",
+        "sector": "Healthcare",
+        "currentPrice": 465.41,
+        "volume": 629388
+    }
+]
