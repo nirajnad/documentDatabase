@@ -1,0 +1,403 @@
+
+[
+    {
+        "_id": "74601d32-3f13-4e5e-af9f-18db4d193c8f",
+        "username": "ivzFKC",
+        "email": "pkiok@example.com",
+        "password": "QLgKoAfMsd",
+        "portfolios": [
+            {
+                "_id": "4c1ee0f7-c677-46a6-b8a3-a6ab833090cd",
+                "portfolioName": "veEpzqZjNi",
+                "creationDate": "2021-11-11",
+                "description": "A portfolio focusing on technology",
+                "transactions": [
+                    {
+                        "_id": "6dcc6908-5c7c-4718-ab8b-6f41f622d608",
+                        "date": "2021-09-17",
+                        "type": "Sell",
+                        "quantity": 50,
+                        "pricePerShare": 46.82,
+                        "stock_id": "0a71a4d6-ae1b-4bf8-af97-b6ab4e9d19a7"
+                    },
+                    {
+                        "_id": "612ec432-db5a-4364-bfd6-bfd11b74194f",
+                        "date": "2021-11-07",
+                        "type": "Sell",
+                        "quantity": 12,
+                        "pricePerShare": 168.92,
+                        "stock_id": "f6d33ad4-5259-4546-bca7-a6ea1dcaba1c"
+                    },
+                    {
+                        "_id": "9d12a889-7597-4bcb-bb82-cab32c663fcc",
+                        "date": "2021-07-28",
+                        "type": "Sell",
+                        "quantity": 21,
+                        "pricePerShare": 464.57,
+                        "stock_id": "d79511e4-c61d-45fe-b9c9-a4f2c4cc1d15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "10b9a394-10bf-4bc4-860f-1433c1d1f580",
+        "username": "tkbCPO",
+        "email": "pMdis@example.com",
+        "password": "gUtyMcbyJF",
+        "portfolios": [
+            {
+                "_id": "c8305c37-ba57-4b4c-93c4-cd644e64e4b4",
+                "portfolioName": "PlwBSLKDlU",
+                "creationDate": "2021-02-02",
+                "description": "A portfolio focusing on finance",
+                "transactions": [
+                    {
+                        "_id": "fd698f77-d5e3-4ebc-8128-34f856fa9765",
+                        "date": "2021-07-26",
+                        "type": "Sell",
+                        "quantity": 23,
+                        "pricePerShare": 154.01,
+                        "stock_id": "4d4a3e6b-8db9-460f-8e64-219f17539b9d"
+                    },
+                    {
+                        "_id": "492354e4-ddbb-47a2-86f9-48b7d8db4e65",
+                        "date": "2021-11-21",
+                        "type": "Sell",
+                        "quantity": 24,
+                        "pricePerShare": 417.51,
+                        "stock_id": "2b185ddc-b91c-40b1-bb75-36582252f65c"
+                    },
+                    {
+                        "_id": "266e7fb3-90e5-4de4-9716-02e4e11d9c84",
+                        "date": "2021-01-22",
+                        "type": "Sell",
+                        "quantity": 89,
+                        "pricePerShare": 337.8,
+                        "stock_id": "1f3a232d-2950-4450-9572-7e01eff5f011"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "9b293984-3690-47cc-b544-cf019907cbd7",
+        "username": "RbAHyO",
+        "email": "FpcVf@example.com",
+        "password": "BImAebfgdq",
+        "portfolios": [
+            {
+                "_id": "4ed40284-e072-4a34-a1fa-38c02f4f76c9",
+                "portfolioName": "GgtAcDogKN",
+                "creationDate": "2021-09-20",
+                "description": "A portfolio focusing on energy",
+                "transactions": [
+                    {
+                        "_id": "a2552361-4a96-4ace-9fb4-da14ca7311f6",
+                        "date": "2021-05-10",
+                        "type": "Sell",
+                        "quantity": 13,
+                        "pricePerShare": 295.69,
+                        "stock_id": "129a56ce-c1b8-40bb-85fa-bfb93e1b4569"
+                    },
+                    {
+                        "_id": "8f94cb29-e81e-4178-8844-04c8348dc454",
+                        "date": "2021-04-10",
+                        "type": "Sell",
+                        "quantity": 35,
+                        "pricePerShare": 187.9,
+                        "stock_id": "1d96026b-2cf0-48f8-b3b6-a8b65c65c699"
+                    },
+                    {
+                        "_id": "33f31d23-55b6-4286-8b79-a5877e938b9e",
+                        "date": "2021-09-16",
+                        "type": "Sell",
+                        "quantity": 28,
+                        "pricePerShare": 383.81,
+                        "stock_id": "7a707d2c-e57b-4b73-9b62-ec2ed5b2db96"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "e0c2157b-5776-4374-9513-da7d939cc105",
+        "username": "xRvaVm",
+        "email": "aOqgE@example.com",
+        "password": "ROxpKCmIjF",
+        "portfolios": [
+            {
+                "_id": "2a9f6a49-064c-4cb8-bb7c-b6e2415e252c",
+                "portfolioName": "MvGXfieFrP",
+                "creationDate": "2020-06-01",
+                "description": "A portfolio focusing on technology",
+                "transactions": [
+                    {
+                        "_id": "1c6e1999-cc59-4371-8c53-0a9f287b8da7",
+                        "date": "2021-04-29",
+                        "type": "Buy",
+                        "quantity": 97,
+                        "pricePerShare": 280.48,
+                        "stock_id": "455e58f9-057a-4080-8a78-611e51c1232e"
+                    },
+                    {
+                        "_id": "7a42ff6c-3128-41d7-b36f-a3d9343868da",
+                        "date": "2021-12-23",
+                        "type": "Buy",
+                        "quantity": 48,
+                        "pricePerShare": 81.71,
+                        "stock_id": "0f6104b4-94fc-4f50-88e2-34f68c6005b3"
+                    },
+                    {
+                        "_id": "27dfe4a3-c862-4f29-b921-1d6d1b486dae",
+                        "date": "2021-07-29",
+                        "type": "Buy",
+                        "quantity": 13,
+                        "pricePerShare": 204.76,
+                        "stock_id": "127c58aa-8c5e-4d5a-ab28-a094c0901be9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "fb76c9e7-5f30-41f2-b0e5-7c14cdea6aa5",
+        "username": "nungxC",
+        "email": "jKjQj@example.com",
+        "password": "srbxDNaGII",
+        "portfolios": [
+            {
+                "_id": "0497fb94-634c-4178-bccb-4ee701144c5a",
+                "portfolioName": "ZrYzVGMELo",
+                "creationDate": "2021-02-08",
+                "description": "A portfolio focusing on technology",
+                "transactions": [
+                    {
+                        "_id": "be22e94a-709a-458e-abf1-8752dbb0f463",
+                        "date": "2021-08-21",
+                        "type": "Buy",
+                        "quantity": 95,
+                        "pricePerShare": 361.17,
+                        "stock_id": "cb3a2a13-ffd0-4278-b6a4-d5668ec5548e"
+                    },
+                    {
+                        "_id": "850d4fc1-3282-43e4-b873-f1acaa342129",
+                        "date": "2021-02-15",
+                        "type": "Buy",
+                        "quantity": 28,
+                        "pricePerShare": 428.26,
+                        "stock_id": "a111ea4c-d9f9-4535-9509-f7fa147d97de"
+                    },
+                    {
+                        "_id": "008becca-d697-4841-b2bb-8ef8e8c21891",
+                        "date": "2021-11-24",
+                        "type": "Sell",
+                        "quantity": 54,
+                        "pricePerShare": 489.94,
+                        "stock_id": "27887620-2d19-4614-8446-660a3d3147c0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "d7f93d5e-f83c-4e08-9466-5a17e77a3073",
+        "username": "LmyLOD",
+        "email": "sKlvi@example.com",
+        "password": "dcQensbhPn",
+        "portfolios": [
+            {
+                "_id": "062b923c-e5fe-46e2-a8d6-899002bc7e54",
+                "portfolioName": "DEZeBFwMlq",
+                "creationDate": "2020-06-30",
+                "description": "A portfolio focusing on finance",
+                "transactions": [
+                    {
+                        "_id": "2efcfefe-eb6f-476d-a762-723d5df20b24",
+                        "date": "2021-03-13",
+                        "type": "Buy",
+                        "quantity": 77,
+                        "pricePerShare": 424.7,
+                        "stock_id": "bb5f40d3-5f49-435b-9918-4dcb38491846"
+                    },
+                    {
+                        "_id": "1dcc3bec-ecd3-45ca-950a-b6d2dbd8a9cd",
+                        "date": "2021-07-24",
+                        "type": "Sell",
+                        "quantity": 95,
+                        "pricePerShare": 319.12,
+                        "stock_id": "f4799b9f-3a54-4939-9520-fc1ebbc20772"
+                    },
+                    {
+                        "_id": "8bb23aa6-88c5-4e88-aa20-1074be0aac28",
+                        "date": "2021-10-17",
+                        "type": "Sell",
+                        "quantity": 53,
+                        "pricePerShare": 48.14,
+                        "stock_id": "23779c0c-1b71-4904-81db-a996fa3a0840"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "59d85d85-6c14-4e58-99a7-891e6e68260b",
+        "username": "glwIdv",
+        "email": "JLgZh@example.com",
+        "password": "UWFPwtRRqw",
+        "portfolios": [
+            {
+                "_id": "f34adbbb-d5b4-46ea-9b73-755502d12538",
+                "portfolioName": "xCTCYaslIN",
+                "creationDate": "2021-05-22",
+                "description": "A portfolio focusing on energy",
+                "transactions": [
+                    {
+                        "_id": "161f26ea-fb2a-4270-a187-0abf5a97bf4d",
+                        "date": "2021-01-26",
+                        "type": "Sell",
+                        "quantity": 81,
+                        "pricePerShare": 449.05,
+                        "stock_id": "d071582f-7ec3-468a-8560-1f179cb55c3c"
+                    },
+                    {
+                        "_id": "3a4f841c-fa94-43c6-8712-a1bc8a3031d5",
+                        "date": "2021-02-22",
+                        "type": "Buy",
+                        "quantity": 65,
+                        "pricePerShare": 241.53,
+                        "stock_id": "3ee44221-82e1-4cc8-841b-1680a9294330"
+                    },
+                    {
+                        "_id": "9b61df37-8932-4fb4-b120-1dc67e596580",
+                        "date": "2021-10-16",
+                        "type": "Sell",
+                        "quantity": 49,
+                        "pricePerShare": 178.72,
+                        "stock_id": "ed2e592a-2935-4a3c-aa53-408d641d2cab"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "da27ce50-41b7-4b73-aa9c-185798d6aeb3",
+        "username": "emMKvF",
+        "email": "lJlTN@example.com",
+        "password": "TvpPKlQTme",
+        "portfolios": [
+            {
+                "_id": "b0f8b186-b12f-4cc7-a485-6fec4a900a18",
+                "portfolioName": "myAHKbbfrI",
+                "creationDate": "2020-05-09",
+                "description": "A portfolio focusing on finance",
+                "transactions": [
+                    {
+                        "_id": "0b4e1de2-6386-47f6-8600-ec8cf32f2086",
+                        "date": "2021-10-12",
+                        "type": "Buy",
+                        "quantity": 74,
+                        "pricePerShare": 123.59,
+                        "stock_id": "fd867e3d-642a-4e3d-b5fc-7e29d40dc6c8"
+                    },
+                    {
+                        "_id": "a738f82c-c1f9-4ad2-8500-633717526486",
+                        "date": "2021-02-20",
+                        "type": "Buy",
+                        "quantity": 26,
+                        "pricePerShare": 452.52,
+                        "stock_id": "83e92fcd-47c0-4ca4-9643-1bd9bd23bd7d"
+                    },
+                    {
+                        "_id": "6e4bfd7b-2760-43c5-8225-6204022c7ecb",
+                        "date": "2021-10-05",
+                        "type": "Buy",
+                        "quantity": 61,
+                        "pricePerShare": 133.47,
+                        "stock_id": "b1cb241b-6a45-49ec-be14-6aed7a98b166"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "e6ab16c4-0737-45f8-88a3-c3da2e8e6213",
+        "username": "mrmnEs",
+        "email": "VXver@example.com",
+        "password": "aNVVusjeYk",
+        "portfolios": [
+            {
+                "_id": "43c54539-b207-453a-9b52-3b4527fc5740",
+                "portfolioName": "IalTyUgnsf",
+                "creationDate": "2021-02-02",
+                "description": "A portfolio focusing on technology",
+                "transactions": [
+                    {
+                        "_id": "ef1c449b-a449-4c7b-80bc-a5ed051fd363",
+                        "date": "2021-03-06",
+                        "type": "Sell",
+                        "quantity": 48,
+                        "pricePerShare": 232.37,
+                        "stock_id": "808fd611-bb11-47b1-96a5-6bf8a276890d"
+                    },
+                    {
+                        "_id": "dfed6bb2-57ee-47a5-82cc-5527bca0afce",
+                        "date": "2021-06-08",
+                        "type": "Buy",
+                        "quantity": 100,
+                        "pricePerShare": 346.91,
+                        "stock_id": "d808a70d-aaf4-43c7-88ad-6d63c3746390"
+                    },
+                    {
+                        "_id": "ee86b826-607a-4c44-bdf0-c899d32805f9",
+                        "date": "2021-04-28",
+                        "type": "Buy",
+                        "quantity": 100,
+                        "pricePerShare": 417.69,
+                        "stock_id": "131b16e9-6789-4a19-b9b2-70a05f27694c"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "49c736f8-c632-4d50-b694-c0c9339f542b",
+        "username": "absZPD",
+        "email": "jIynB@example.com",
+        "password": "XTjEWomBzR",
+        "portfolios": [
+            {
+                "_id": "733a8d08-a580-407b-87b1-8117109b7f06",
+                "portfolioName": "vaCjYfwimQ",
+                "creationDate": "2020-04-20",
+                "description": "A portfolio focusing on technology",
+                "transactions": [
+                    {
+                        "_id": "f744b3a7-d381-46ba-94d8-7331d24e0bab",
+                        "date": "2021-09-23",
+                        "type": "Sell",
+                        "quantity": 76,
+                        "pricePerShare": 470.24,
+                        "stock_id": "bd87c2a0-4ade-4973-8429-d479cab14b2e"
+                    },
+                    {
+                        "_id": "968ad62c-abab-4192-98c4-688a7a879c8e",
+                        "date": "2021-04-26",
+                        "type": "Buy",
+                        "quantity": 52,
+                        "pricePerShare": 133.95,
+                        "stock_id": "9f723dd1-0fa8-42cc-8723-744ae22f73c6"
+                    },
+                    {
+                        "_id": "a095a6a9-124d-4b8a-b881-1507b00b3091",
+                        "date": "2021-02-01",
+                        "type": "Buy",
+                        "quantity": 100,
+                        "pricePerShare": 490.75,
+                        "stock_id": "473510b5-7482-4c91-8411-1ef0f132788d"
+                    }
+                ]
+            }
+        ]
+    }
+]
